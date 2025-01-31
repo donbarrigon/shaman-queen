@@ -12,5 +12,8 @@
             </div>
         </div>
     </div> --}}
+    <x-layouts.dashboard>
         <livewire:home />
+    </x-layouts.dashboard>
+        
 </x-app-layout>
