@@ -40,43 +40,43 @@
         style="background-image: url('{{ asset('storage/images/home15.jpeg') }}')" 
         class="bg-cover bg-center relative h-screen py-12 flex items-end justify-center"
     >
-    <div class="w-full py-6 bg-gradient-to-r from-neutral-900/85 via-neutral-900 to-neutral-900/85">
-        <div class="container mx-auto px-6"> <!-- Contenedor principal centrado -->
+        <div class="w-full py-6 bg-gradient-to-r from-neutral-900/85 via-neutral-900 to-neutral-900/85">
+            <div class="container mx-auto px-6"> <!-- Contenedor principal centrado -->
 
-            <div class="flex lg:justify-center space-x-6 overflow-x-auto snap-x snap-mandatory"> <!-- Contenedor de scroll -->
-                <!-- contenedores de los textos -->
-                <div class="relative text-center px-3 min-w-[384px] max-w-96 snap-start flex flex-col justify-between min-h-44">
-                    <h1 class="text-2xl font-['Cinzel_Decorative'] text-gray-200 mb-3">Guía Espiritual</h1>
-                    <p class="text-xl text-gray-400 max-w-2xl mx-auto font-['Crimson_Text']">
-                        Bienvenido a un espacio sagrado donde la sabiduría de los ancestros se une con tu camino espiritual. Soy guía espiritual y chamana, dedicada a ayudarte a encontrar claridad, equilibrio y sanación en tu vida.
-                    </p>
-                    <button class="mt-4 w-full bg-red-900/80 hover:bg-red-800 text-gray-200 py-2 rounded transition-colors duration-300">
-                        Ver mas
-                    </button>
-                </div>
-                
-                <div class="relative text-center px-3 min-w-[384px] max-w-96 snap-start flex flex-col justify-between mim-h-44">
-                    <h1 class="text-2xl font-['Cinzel_Decorative'] text-gray-200 mb-3">Servicios</h1>
-                    <p class="text-xl text-gray-400 max-w-2xl mx-auto font-['Crimson_Text']">
-                        A través de rituales ancestrales, lecturas de energía y conexión con los espíritus, te ofrezco herramientas para transformar tu realidad y desbloquear tu verdadero potencial.
-                    </p>
-                    <button class="mt-4 w-full bg-red-900/80 hover:bg-red-800 text-gray-200 py-2 rounded transition-colors duration-300">
-                        Ir al chat
-                    </button>
-                </div>
-                
-                <div class="relative text-center px-3 min-w-[384px] max-w-96 snap-start flex flex-col justify-between min-h-44">
-                    <h1 class="text-2xl font-['Cinzel_Decorative'] text-gray-200 mb-3">Consultas en vivo</h1>
-                    <p class="text-xl text-gray-400 max-w-2xl mx-auto font-['Crimson_Text']">
-                        ¿Listo para comenzar tu viaje? Hablame y déjame guiarte hacia la luz que ya llevas dentro.
-                    </p>
-                    <button class="mt-4 w-full bg-red-900/80 hover:bg-red-800 text-gray-200 py-2 rounded transition-colors duration-300">
-                        Ir a servicios
-                    </button>
+                <div class="flex lg:justify-center space-x-6 overflow-x-auto snap-x snap-mandatory"> <!-- Contenedor de scroll -->
+                    <!-- contenedores de los textos -->
+                    <div class="relative text-center px-3 min-w-[384px] max-w-96 snap-start flex flex-col justify-between min-h-44">
+                        <h1 class="text-2xl font-['Cinzel_Decorative'] text-gray-200 mb-3">Guía Espiritual</h1>
+                        <p class="text-xl text-gray-400 max-w-2xl mx-auto font-['Crimson_Text']">
+                            Bienvenido a un espacio sagrado donde la sabiduría de los ancestros se une con tu camino espiritual. Soy guía espiritual y chamana, dedicada a ayudarte a encontrar claridad, equilibrio y sanación en tu vida.
+                        </p>
+                        <button class="mt-4 w-full bg-red-900/80 hover:bg-red-800 text-gray-200 py-2 rounded transition-colors duration-300">
+                            Ver mas
+                        </button>
+                    </div>
+                    
+                    <div class="relative text-center px-3 min-w-[384px] max-w-96 snap-start flex flex-col justify-between mim-h-44">
+                        <h1 class="text-2xl font-['Cinzel_Decorative'] text-gray-200 mb-3">Servicios</h1>
+                        <p class="text-xl text-gray-400 max-w-2xl mx-auto font-['Crimson_Text']">
+                            A través de rituales ancestrales, lecturas de energía y conexión con los espíritus, te ofrezco herramientas para transformar tu realidad y desbloquear tu verdadero potencial.
+                        </p>
+                        <button class="mt-4 w-full bg-red-900/80 hover:bg-red-800 text-gray-200 py-2 rounded transition-colors duration-300">
+                            Ir al chat
+                        </button>
+                    </div>
+                    
+                    <div class="relative text-center px-3 min-w-[384px] max-w-96 snap-start flex flex-col justify-between min-h-44">
+                        <h1 class="text-2xl font-['Cinzel_Decorative'] text-gray-200 mb-3">Consultas en vivo</h1>
+                        <p class="text-xl text-gray-400 max-w-2xl mx-auto font-['Crimson_Text']">
+                            ¿Listo para comenzar tu viaje? Hablame y déjame guiarte hacia la luz que ya llevas dentro.
+                        </p>
+                        <button class="mt-4 w-full bg-red-900/80 hover:bg-red-800 text-gray-200 py-2 rounded transition-colors duration-300">
+                            Ir a servicios
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
     </div>
 
     <!-- Cards Section -->
